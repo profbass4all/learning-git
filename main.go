@@ -1,2 +1,3 @@
-VimCrypt~03!Æ
-^‹™*Âïÿ¶R’7qÆB?¢©‹rEU×Š„`ÎÀ|
+package main
+
+file main() {}
