@@ -1,3 +1,3 @@
 package main
 
-file main() {}
+func main() {}
